@@ -1,6 +1,8 @@
 # Dimens
 Android Dimes File
 
+Open This README.md in Code View See all the dimens Files just and copy and peast in your dimens file in android studio
+
  <dimen name="_100sdp">100.00dp</dimen>
     <dimen name="_100ssp">100.00sp</dimen>
     <dimen name="_101sdp">101.00dp</dimen>
